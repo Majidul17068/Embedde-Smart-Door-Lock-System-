@@ -5,6 +5,7 @@ components for developing a smart door lock using Arduino that provides
 excellent security and quick access. The following are the specific project goals:
 ● Familiarity with a smart door locking system based on a microcontroller.
 ● Using Arduino to create a simple and smart door locking system
+![image](https://user-images.githubusercontent.com/83394128/195854147-423305d1-c6ec-4fc8-b9e4-ec9ed270edb0.png)
 
 The estimated cost of our project products is given below(Approximately),
 ● 1 Arduino Board = 400 TK 
