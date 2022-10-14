@@ -57,6 +57,6 @@ else
 digitalWrite(RedpinLock, LOW);
 digitalWrite(GreenpinUnlock, HIGH);
 ServoMotor.write(360);  
-  //DEFAULT IS: 360
+
 }
 }
